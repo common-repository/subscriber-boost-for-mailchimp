@@ -1,0 +1,34 @@
+#brand-color-color-picker {
+    width: 90px;
+    padding: 0.25rem;
+}
+.statistics {
+    display: flex;
+    justify-content: space-between;
+}
+.statistics__block {
+    flex: 1;
+    border: 1px solid #ddd;
+    padding: 2rem 0 1rem;
+    margin: 1rem 0.15rem;
+    text-align: center;
+    background-color: #fff;
+}
+.statistics__block-figures {
+    color: #3399cc;
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+}
+.statistics__block-title {
+    font-weight: 600;
+}
+.statistics__block-subtitle {
+    font-size: 0.7rem;
+    color: #ccc;
+}
+.api_key_text_input {
+    width: 350px;
+}
+.settings_text_input {
+    width: 500px;
+}
